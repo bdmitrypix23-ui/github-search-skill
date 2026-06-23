@@ -3,6 +3,7 @@
 # github-search
 
 [![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-8A63D2)](https://docs.claude.com/en/docs/claude-code)
+[![GitHub API](https://img.shields.io/badge/GitHub-official%20API-181717?logo=github&logoColor=white)](https://docs.github.com/en/rest)
 [![Latest release](https://img.shields.io/github/v/release/bdmitrypix23-ui/github-search-skill)](https://github.com/bdmitrypix23-ui/github-search-skill/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/bdmitrypix23-ui/github-search-skill)](https://github.com/bdmitrypix23-ui/github-search-skill/stargazers)
