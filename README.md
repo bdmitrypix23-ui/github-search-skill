@@ -20,22 +20,6 @@ Ordinary search returns the first popular link, so you miss the better tool just
 - **Sweep a whole topic at once** — `assets/gh_hunt.sh` runs 50–100 searches with rate-limit handling, dedup, and clean JSON output. Edit the arrays, run it in the background.
 - **Find existing skills** — locate other Claude skills via GitHub Code Search and public registries before you build your own.
 
-## Example
-
-**You:** *find me a WhatsApp MCP server*
-
-**The skill returns a ranked map, not a single link:**
-
-| ⭐ | Project | Why it matters |
-|---|---|---|
-| 5821 | [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | The leader — personal account via QR, Go + Python |
-| 65 | [jlucaso1/whatsapp-mcp-ts](https://github.com/jlucaso1/whatsapp-mcp-ts) | Single stack — pure TypeScript (Baileys) |
-| 19 | [FelixIsaac/whatsapp-mcp-extended](https://github.com/FelixIsaac/whatsapp-mcp-extended) | **The hidden gem** — 26 tools, webhooks, anti-ban, Docker. 300× fewer stars than the leader, far more features. |
-
-→ Recommendation: take the leader for stability, or the 19★ one if you need the extra tools.
-
-*Plain star-ranked search would have stopped at the first row and never shown you the 19★ gem. (Star counts as of writing — they shift over time.)*
-
 ## Install
 
 ```bash
